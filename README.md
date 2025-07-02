@@ -1,4 +1,3 @@
-# intellimark-weekly-sales-forecast
 # 📊 Intellimark AI - Data Science Forecast Assignment
 
 ## 🚀 Overview
